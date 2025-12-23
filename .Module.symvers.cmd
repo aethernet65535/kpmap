@@ -1,1 +1,0 @@
-cmd_/home/aethernet/Documents/65535/workspace/linux/modules/5.10/kpmap/Module.symvers := sed 's/ko$$/o/' /home/aethernet/Documents/65535/workspace/linux/modules/5.10/kpmap/modules.order | scripts/mod/modpost     -o /home/aethernet/Documents/65535/workspace/linux/modules/5.10/kpmap/Module.symvers -e -i Module.symvers   -n -T -
